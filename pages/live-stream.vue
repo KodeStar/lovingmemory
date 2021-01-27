@@ -7,7 +7,7 @@
       <h1 class="title">Service Livestream</h1>
       <p>As attendance is restricted due to COVID-19 we hope that you will join us virtually. The services will be held on <em>Thursday January 28th 2021</em>, first at Connection Church Centre then at Woodlands Crematorium.</p>
       <h2>Church Service</h2>
-      <p>The church service is being performed at Connection Church Centre - Kingshurst
+      <p>The church service is being performed at Connection Church Centre - Kingshurst, and being livestreamed on youtube. You can either click the button below or search for "lyn hunt memorial"
       </p>
       <a class="button" target="_blank" rel=”noopener” href="https://youtu.be/LSD6XzJjxWg">Livestream - 10:30am</a>
       <h2>Crematorium</h2>
