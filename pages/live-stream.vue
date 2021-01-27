@@ -9,7 +9,7 @@
       <h2>Church Service</h2>
       <p>The church service is being performed at Connection Church Centre - Kingshurst
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="">Livestream - 10:30am</a>
+      <a class="button" target="_blank" rel=”noopener” href="https://youtu.be/LSD6XzJjxWg">Livestream - 10:30am</a>
       <h2>Crematorium</h2>
       <p>The service is being held at woodlands crematorium. To view it click the button below and enter the username and password supplied below.</p>
       <a class="button" target="_blank" rel=”noopener” href="https://www.obitus.com/index.php?page=login">Livestream - 12:00pm</a>
