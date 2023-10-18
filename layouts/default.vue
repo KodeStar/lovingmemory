@@ -8,7 +8,7 @@
 $highlight: #c1309a;
 $highlightmuted: #c1309ad9;
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -40,7 +40,7 @@ html {
 .icon {
   margin-right: 10px;
   font-size: 22px;
-  height:28px;
+  height: 28px;
   width: 27.5px;
 }
 .section {
@@ -57,11 +57,10 @@ html {
     left: 0;
     width: 100%;
     min-height: auto;
-    height: 100%!important;
-    padding-bottom: 90px!important;
+    height: 100% !important;
+    padding-bottom: 90px !important;
   }
   &.links {
-    background-image: url('~assets/corner.svg');
     background-position: bottom 20px left 20px;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -74,9 +73,9 @@ html {
       bottom: 0;
       left: 0;
       width: 100%;
-      height: 80px!important;
+      height: 80px !important;
       background: #1e2333d9;
-      padding-bottom: 0px!important;
+      padding-bottom: 0px !important;
       z-index: 2;
       backdrop-filter: blur(5px);
       ul {
@@ -186,8 +185,8 @@ html {
     text-decoration: none;
     color: #fff;
     margin: 10px 0;
-    box-shadow: 0 0 5px 2px rgba(0,0,0,0.3);
-    border-top: 1px solid rgba(255,255,255,0.2);
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
   }
 }
 ul {
@@ -230,7 +229,7 @@ ul {
   font-weight: 300;
 }
 .title {
-  font-family: 'Pinyon Script', cursive;
+  font-family: "Pinyon Script", cursive;
   display: block;
   font-weight: 300;
   font-size: 50px;
@@ -255,31 +254,31 @@ ul {
 }
 
 .svg-inline--fa {
-    display: inline-block;
-    font-size: inherit;
-    height: 1em;
-    overflow: visible;
-    vertical-align: -.125em;
+  display: inline-block;
+  font-size: inherit;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -0.125em;
 }
 .fa-fw {
-    text-align: center;
+  text-align: center;
 }
 .fa-ul {
-    list-style-type: none;
-    position: relative;
+  list-style-type: none;
+  position: relative;
 }
 .fa-li {
-    left: -2em;
-    position: absolute;
-    text-align: center;
-    width: 2em;
-    line-height: inherit;
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
 }
 .svg-inline--fa.fa-w-8 {
-    width: .5em;
+  width: 0.5em;
 }
 
 .svg-inline--fa.fa-fw {
-    width: 1.25em;
+  width: 1.25em;
 }
 </style>
